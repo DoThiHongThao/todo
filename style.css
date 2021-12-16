@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(92, 62, 121);
+}
+.form-control{
+    margin-left: 38%;
+    margin-top: 200px;
+}
+.todo-input{
+    height: 40px;
+    width: 400px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    /* color: rgb(124, 119, 119); */
+    font-size: x-large;
+}
+.btn{
+    height: 45px;
+    width: 70px;
+    background-color: burlywood;
+}
+.list-item{
+    background-color: aliceblue;
+    width: 440px;
+    min-height: 40px;
+}
+.icon{
+    float: right;
+    margin-right: 30px;
+    font-size: 25px;
+}
+.select-action{
+    margin-left: 90px;
+}
+.btn-select{
+    width: 90px;
+    height: 30px;
+    margin-top: 10px;
+}
+.btn-action{
+    background-color: rgb(180, 172, 172);
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.item-content{
+    cursor: grabbing;
+}
+h3{
+    color: rgb(201, 215, 228);
+    margin-left: 30px;
+}
